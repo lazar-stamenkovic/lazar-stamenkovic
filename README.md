@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 🎓 I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like **Web development**, **Blockchain development & DApps**, **Reverse engineering** and  **Machine Learning & Deep learning**.
-I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **React Applications**.
+I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **Golang**, **Python**, **React Applications**.
 
 👨‍💻 I always strive to push my limits of whatever is possible. And very enjoy hard working and make my own creative something. Having ambitious and overwhelming  attitude to the upcoming technology and will move forward in advance.
 
